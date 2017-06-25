@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "TopDesk To Trello",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Migre facilmente ocorrências do TopDesk para o Trello",
+    "description": "The description of the application"
+  }
+}
